@@ -11,4 +11,4 @@ now type tesseract wow.png ok
 in command prompt to extract data from given image
 
 video explaination is at my you tube handle:
-
+https://youtu.be/tqvW4zcj1uU
